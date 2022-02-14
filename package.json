@@ -38,7 +38,7 @@
   "dependencies": {
     "@segment/snippet": "^4.15.3",
     "classnames": "^2.3.1",
-    "contentful": "^9.1.5",
+    "contentful": "^9.1.6",
     "dotenv": "~8.6.0",
     "eslint-plugin-prettier": "~3.4.1",
     "express": "~4.17.1",
